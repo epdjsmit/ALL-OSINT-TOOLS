@@ -156,13 +156,7 @@ Check them out below and accelerate your OSINT career:
 6.  https://anonboot.com/
 7.  https://booter.cc/
 8.  https://booter.sx/
-9.  https://dragonstresser.com
-10. https://hirestresser.net/
-11. https://ipstresser.xyz
-12. https://securityhide.net/
-13. https://stresser.gg/
-14. https://stresser.top/
-15. https://instant-stresser.com/
-16. https://redstresser.cc/
-17. https://stresser.app/
-18. https://stresser.zone/
+9. https://hirestresser.net/
+10. https://ipstresser.xyz
+11. https://securityhide.net/
+
