@@ -64,7 +64,7 @@ Check them out below and accelerate your OSINT career:
 📥 News & Blogs:
 
 1. Cyber Detective
-2. Secjuice
+2. [Secjuice](https://www.secjuice.com/tag/osint/)
 3. Sector035
 4. IntelTechniques
 5. Hatless1der
@@ -80,16 +80,16 @@ Check them out below and accelerate your OSINT career:
 15. CQcore
 16. SANS Institute
 17. LISA Institute
-18. osintme.com
+18. [osintme.com](https://www.osintme.com)
 19. The OSINT Curious Project
 20. Blackdot Solutions
 21. Nico Dekens (Dutch_OsintGuy)
 22. Authentic8 Blog
-23. Bellingcat
+23. [Bellingcat](https://www.bellingcat.com)
 24. Knowmad
 25. OH SHINT Blog
 26. The SEINT
-27. Shadow Dragon Blog
+27. [Shadow Dragon Blog](https://shadowdragon.io/blog/)
 28. ESPY - OSINT Fraud Prevention
 
 🖥 Virtual Machines & More:
@@ -140,3 +140,29 @@ Check them out below and accelerate your OSINT career:
 13. Keynorth Newsletter
 14. Cibergy OSINT News
 
+
+🖥 Tools & More:
+
+1. [TweetScrapper](https://github.com/epdjsmit/TweetScraper)
+2. 
+
+🖥 Free DDOS/Stresser: Tested Good Working:
+
+1.  https://ddosforhire.net/ 
+2.  https://stresser.us/
+3.  https://stresser.ai/
+4.  https://stresslab.sx/
+5.  https://nkstresser.net/
+6.  https://anonboot.com/
+7.  https://booter.cc/
+8.  https://booter.sx/
+9.  https://dragonstresser.com
+10. https://hirestresser.net/
+11. https://ipstresser.xyz
+12. https://securityhide.net/
+13. https://stresser.gg/
+14. https://stresser.top/
+15. https://instant-stresser.com/
+16. https://redstresser.cc/
+17. https://stresser.app/
+18. https://stresser.zone/
