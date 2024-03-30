@@ -1,5 +1,14 @@
 # ALL-OSINT-TOOLS
 
+
+![1*dC6yYmAkwVq2UeF8HngSVw](https://github.com/epdjsmit/ALL-OSINT-TOOLS/assets/2562712/7ff45f30-f151-4894-8615-2a8db2e59bf3)
+
+
+
+
+
+
+
 I've gathered the leading OSINT resources.
 
 #E034 #OSINT #Resources
@@ -28,23 +37,23 @@ Check them out below and accelerate your OSINT career:
 🎧 Podcasts: 
 
 1. Darknet Diaries by [Jack Rhysider](https://www.linkedin.com/in/jack-rhysider-02922a167/)
-2. 2. NeedleStack by Authentic8
-3. ShadowDragon
-4. The Pivot by Maltego Technologies
-5. The OSINT Bunker
-6. Layer 8 by Patrick Laverty
-7. The World of Intelligence by Janes
+2. 2. NeedleStack by Authentic8 [Authentic8](https://www.linkedin.com/company/authentic8/)
+3. [ShadowDragon](https://www.linkedin.com/company/shadowdragon/)
+4. [The Pivot by Maltego Technologies](https://www.linkedin.com/company/maltego/)
+5. [The OSINT Bunker](https://www.linkedin.com/company/the-osint-bunker/)
+6. Layer 8 by [Patrick Laverty](https://www.linkedin.com/in/ACoAAACCOwcBPKr8EWcJSlRMUf6wIaj9S7IMgWY)
+7. [The World of Intelligence by Janes](https://www.linkedin.com/company/janes-defence/)
 
 📹 Youtube Channels:
 
-1. David Bombal
+1. [David Bombal](https://www.linkedin.com/in/ACoAAADcTIkBf90CLnZIorAAYmmE42zxxuWPCYY)
 2. Authentic8
 3. Gary Ruddell
 4. Gralhix - Sofia Santos
 5. Bendobrown - Benjamin S.
 7. Cody Bernardy
-8. Social Links
-9. OSINT Dojo
+8. [Social Links](https://www.linkedin.com/company/social-links/)
+9. [OSINT Dojo](https://www.linkedin.com/company/osintdojo/)
 10. Forensic OSINT
 11. SANS Institute
 12. LISA Institute - Seguridad, Inteligencia, Ciberseguridad y Geopolítica
@@ -85,17 +94,17 @@ Check them out below and accelerate your OSINT career:
 
 🖥 Virtual Machines & More:
 
-1. Inteltechniques VM
-2. Sherlock Linux VM
+1. [Inteltechniques VM](https://inteltechniques.com/blog/2019/01/25/buscador-2-0-osint-virtual-machine-released/)
+2. [Sherlock Linux VM](https://www.sherlock-linux.org/en/download/)
 3. Kali Linux VM
-4. Trace Labs OSINT VM
-5. CSI Linux VM
-6. Tsurugi VM
-7. OSINTUX VM
+4. [[Trace Labs OSINT VM](https://www.tracelabs.org/initiatives/osint-vm)
+5.[ CSI Linux VM](https://csilinux.com/csi-linux-downloads/)
+6. [Tsurugi VM](https://tsurugi-linux.org)
+7. [OSINTUX VM](https://github.com/tracelabs/tlosint-vm)
 8. Silo by Authentic8
 9. Kasm
 10. Debian OS
-11. Tails OS
+11. [Tails OS](https://tails.net)
 
 📲 Telegram Channels:
 
