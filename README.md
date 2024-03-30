@@ -27,8 +27,8 @@ Check them out below and accelerate your OSINT career:
 
 🎧 Podcasts: 
 
-1. Darknet Diaries by Jack Rhysider
-2. NeedleStack by Authentic8
+1. Darknet Diaries by [Jack Rhysider](https://www.linkedin.com/in/jack-rhysider-02922a167/)
+2. 2. NeedleStack by Authentic8
 3. ShadowDragon
 4. The Pivot by Maltego Technologies
 5. The OSINT Bunker
